@@ -1,0 +1,6 @@
+com\vaccnow\sample\ApplicationStarter.class
+com\vaccnow\sample\dao\model\VaccineBranches.class
+com\vaccnow\sample\services\VaccineBranchServices.class
+com\vaccnow\sample\controller\VaccineBranchDetailsController.class
+com\vaccnow\sample\dao\services\VaccineBranchServicesDao.class
+com\vaccnow\sample\services\impl\VaccineBranchServicesImpl.class
