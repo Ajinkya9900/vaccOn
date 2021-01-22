@@ -24,7 +24,6 @@ public class VaccineBranchServicesImpl implements VaccineBranchServices {
         int hr = 10;
         for (int i=1;i<4;i++) {
             VaccineBranches vaccineBranches = new VaccineBranches();
-            //vaccineBranches.setId(1+i);
             vaccineBranches.setBranchName("Nagpur-"+i);
             vaccineBranches.setNumberOfAvailableVaccine(5+i);
             vaccineBranches.setTimeSlot(hr+"."+min+" "+hr+"."+(min+15)+" "+hr+"."+(min+30));
